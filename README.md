@@ -12,7 +12,6 @@ Este é um sistema simples e interativo desenvolvido com [Flet](https://flet.dev
 - ✅ Gravação automática das datas de criação das matérias
 - ✅ Gráfico de pizza com desempenho por matéria
 - ✅ Edição completa de matérias e notas
-- ✅ Exclusão individual de notas durante a edição
 - ✅ Banco de dados local com SQLite
 
 ---
