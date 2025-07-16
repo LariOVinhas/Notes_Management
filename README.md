@@ -18,12 +18,12 @@ Este é um sistema simples e interativo desenvolvido com [Flet](https://flet.dev
 
 ## 🖼️ Telas do Sistema
 
-1. **Tela de Cadastro**
-2. **Tela de Login**
-3. **Dashboard do Aluno (matérias)**
-4. **Cadastro de nova matéria**
-5. **Edição de matérias (alterar nome, notas)**
-6. **Resumo com gráfico (PieChart)**
+1. Tela de Cadastro
+2. Tela de Login
+3. Dashboard do Aluno (matérias)
+4. Cadastro de nova matéria
+5. Edição de matérias (alterar nome, notas)
+6. Resumo com gráfico (PieChart)
 
 ---
 
